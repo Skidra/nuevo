@@ -18,6 +18,10 @@ int main()
     //SALIDA: resultado en pantalla
     printf("El area es %.2f y el perimetro %.2f", area, perimetro);
     getch();
+
+    printf("Triangulo");
+    printf("Triangulo");
+    
  
     return 0;
 }
